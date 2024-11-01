@@ -1,0 +1,29 @@
+{
+  "name": "waab",
+  "version": "1.0.0",
+  "description": "World of warcraft Addons Auto Backup",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "ggulbae",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GGULBAE/Waab.git"
+  },
+  "keywords": [
+    "world of warcraft",
+    "addon",
+    "google drive",
+    "Backup"
+  ],
+  "bugs": {
+    "url": "https://github.com/GGULBAE/Waab/issues"
+  },
+  "homepage": "https://github.com/GGULBAE/Waab#readme",
+  "devDependencies": {
+    "electron": "^33.0.2"
+  }
+}
